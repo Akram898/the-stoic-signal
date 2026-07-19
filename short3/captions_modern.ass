@@ -1,0 +1,33 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Word,Arial Black,72,&H00FFFFFF,&H003DA3E8,&H00000000,&H90000000,-1,0,0,0,100,100,1,0,1,5,2,2,50,50,420,1
+Style: Punch,Impact,92,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,-1,0,0,0,100,100,2,0,1,6,3,2,60,60,280,1
+Style: Mark,Arial Black,28,&H5A3DA3E8,&H5A3DA3E8,&H6E000000,&H00000000,-1,0,0,0,100,100,2,0,1,2,1,8,0,0,56,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.00,0:00:38.43,Mark,,0,0,0,,THE STOIC SIGNAL
+Dialogue: 1,0:00:00.03,0:00:03.51,Word,,0,0,0,,{\fad(80,60)\bord5\shad2}{\k57}YOUR {\k57}ANGER {\k56}IS {\k56}THEIR {\k56}REMOTE {\k56}CONTROL
+Dialogue: 2,0:00:00.02,0:00:01.35,Punch,,0,0,0,,{\fad(60,120)\fscx108\fscy108\t(0,180,\fscx100\fscy100)}YOUR ANGER IS\N{\c&H003DA3E8&\fs100}THEIR REMOTE
+Dialogue: 1,0:00:03.76,0:00:10.92,Word,,0,0,0,,{\fad(80,60)\bord5\shad2}{\k71}ONE {\k71}INSULT {\k71}ONE {\k71}GLANCE {\k71}AND {\k70}YOU {\k70}HAND {\k70}THEM {\k70}THE {\k70}POWER
+Dialogue: 2,0:00:03.75,0:00:05.08,Punch,,0,0,0,,{\fad(60,120)\fscx108\fscy108\t(0,180,\fscx100\fscy100)}ONE INSULT.\N{\c&H003DA3E8&\fs100}YOU HAND POWER
+Dialogue: 1,0:00:11.16,0:00:15.56,Word,,0,0,0,,{\fad(80,60)\bord5\shad2}{\k62}SENECA {\k62}WARNED {\k61}ANGER {\k61}IS {\k61}A {\k61}SHORT {\k61}MADNESS
+Dialogue: 2,0:00:11.15,0:00:12.48,Punch,,0,0,0,,{\fad(60,120)\fscx108\fscy108\t(0,180,\fscx100\fscy100)}ANGER IS A\N{\c&H003DA3E8&\fs100}SHORT MADNESS
+Dialogue: 1,0:00:15.80,0:00:20.26,Word,,0,0,0,,{\fad(80,60)\bord5\shad2}{\k55}WHILE {\k55}YOU {\k55}BURN {\k55}THEY {\k55}STAY {\k54}COLD {\k54}AND {\k54}WIN
+Dialogue: 2,0:00:15.79,0:00:17.12,Punch,,0,0,0,,{\fad(60,120)\fscx108\fscy108\t(0,180,\fscx100\fscy100)}YOU BURN.\N{\c&H003DA3E8&\fs100}THEY WIN
+Dialogue: 1,0:00:20.50,0:00:25.01,Word,,0,0,0,,{\fad(80,60)\bord5\shad2}{\k63}THE {\k63}STOIC {\k63}MOVE {\k63}PAUSE {\k63}BEFORE {\k63}THE {\k63}REACTION
+Dialogue: 2,0:00:20.49,0:00:21.82,Punch,,0,0,0,,{\fad(60,120)\fscx108\fscy108\t(0,180,\fscx100\fscy100)}PAUSE BEFORE\N{\c&H003DA3E8&\fs100}THE REACTION
+Dialogue: 1,0:00:25.26,0:00:29.56,Word,,0,0,0,,{\fad(80,60)\bord5\shad2}{\k53}MASTER {\k53}THE {\k53}FIRST {\k53}SECOND {\k52}OR {\k52}IT {\k52}MASTERS {\k52}YOU
+Dialogue: 2,0:00:25.25,0:00:26.58,Punch,,0,0,0,,{\fad(60,120)\fscx108\fscy108\t(0,180,\fscx100\fscy100)}MASTER THE\N{\c&H003DA3E8&\fs100}FIRST SECOND
+Dialogue: 1,0:00:29.80,0:00:34.77,Word,,0,0,0,,{\fad(80,60)\bord5\shad2}{\k55}NEXT {\k54}TIME {\k54}THEY {\k54}POKE {\k54}SMILE {\k54}AND {\k54}KEEP {\k54}YOUR {\k54}THRONE
+Dialogue: 2,0:00:29.79,0:00:31.12,Punch,,0,0,0,,{\fad(60,120)\fscx108\fscy108\t(0,180,\fscx100\fscy100)}SMILE. KEEP\N{\c&H003DA3E8&\fs100}YOUR THRONE
+Dialogue: 1,0:00:35.03,0:00:37.60,Word,,0,0,0,,{\fad(80,60)\bord5\shad2}{\k83}THE {\k82}STOIC {\k82}SIGNAL
+Dialogue: 2,0:00:35.02,0:00:36.35,Punch,,0,0,0,,{\fad(60,120)\fscx108\fscy108\t(0,180,\fscx100\fscy100)}FOLLOW\N{\c&H003DA3E8&\fs100}THE STOIC SIGNAL

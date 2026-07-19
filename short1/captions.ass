@@ -1,0 +1,23 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Impact,84,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,1,0,1,5,3,2,70,70,300,1
+Style: Mark,Arial Black,30,&H5A3DA3E8,&H5A3DA3E8,&H6E000000,&H00000000,-1,0,0,0,100,100,2,0,1,2,1,8,0,0,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.00,0:00:37.50,Mark,,0,0,0,,THE STOIC SIGNAL
+Dialogue: 0,0:00:00.04,0:00:02.63,Cap,,0,0,0,,{\fad(120,90)}THEY THOUGHT SILENCE\N{\c&H003DA3E8&\fs104}WAS WEAKNESS
+Dialogue: 0,0:00:02.67,0:00:08.70,Cap,,0,0,0,,{\fad(120,90)}EVERYONE FOUGHT\N{\c&H003DA3E8&\fs104}TO BE HEARD
+Dialogue: 0,0:00:08.74,0:00:13.87,Cap,,0,0,0,,{\fad(120,90)}HE SAID\N{\c&H003DA3E8&\fs104}NOTHING
+Dialogue: 0,0:00:13.91,0:00:18.40,Cap,,0,0,0,,{\fad(120,90)}NOISE   vs.\N{\c&H003DA3E8&\fs104}CONTROL
+Dialogue: 0,0:00:18.44,0:00:23.83,Cap,,0,0,0,,{\fad(120,90)}TWO EARS.\N{\c&H003DA3E8&\fs104}ONE MOUTH.
+Dialogue: 0,0:00:23.87,0:00:29.10,Cap,,0,0,0,,{\fad(120,90)}SILENCE IS A\N{\c&H003DA3E8&\fs104}FORTRESS
+Dialogue: 0,0:00:29.14,0:00:35.00,Cap,,0,0,0,,{\fad(120,90)}SAY NOTHING.\N{\c&H003DA3E8&\fs104}WATCH THEM LOSE
+Dialogue: 0,0:00:35.04,0:00:37.50,Cap,,0,0,0,,{\fad(120,90)}FOLLOW\N{\c&H003DA3E8&\fs104}THE STOIC SIGNAL

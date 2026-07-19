@@ -1,0 +1,23 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Impact,84,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,1,0,1,5,3,2,70,70,300,1
+Style: Mark,Arial Black,30,&H5A3DA3E8,&H5A3DA3E8,&H6E000000,&H00000000,-1,0,0,0,100,100,2,0,1,2,1,8,0,0,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.00,0:00:32.07,Mark,,0,0,0,,THE STOIC SIGNAL
+Dialogue: 0,0:00:00.04,0:00:02.77,Cap,,0,0,0,,{\fad(120,90)}YOU GET ABOUT\N{\c&H003DA3E8&\fs104}4,000 WEEKS
+Dialogue: 0,0:00:02.81,0:00:06.27,Cap,,0,0,0,,{\fad(120,90)}1,000 ARE\N{\c&H003DA3E8&\fs104}ALREADY GONE
+Dialogue: 0,0:00:06.31,0:00:09.53,Cap,,0,0,0,,{\fad(120,90)}1,000 MORE TO\N{\c&H003DA3E8&\fs104}A SCREEN
+Dialogue: 0,0:00:09.57,0:00:15.10,Cap,,0,0,0,,{\fad(120,90)}THE CURE\N{\c&H003DA3E8&\fs104}MEMENTO MORI
+Dialogue: 0,0:00:15.14,0:00:18.67,Cap,,0,0,0,,{\fad(120,90)}REMEMBER YOU\N{\c&H003DA3E8&\fs104}WILL DIE
+Dialogue: 0,0:00:18.71,0:00:23.43,Cap,,0,0,0,,{\fad(120,90)}— TO\N{\c&H003DA3E8&\fs104}WAKE YOU UP
+Dialogue: 0,0:00:23.47,0:00:27.73,Cap,,0,0,0,,{\fad(120,90)}WASTE NO\N{\c&H003DA3E8&\fs104}AFTERNOON
+Dialogue: 0,0:00:27.77,0:00:32.07,Cap,,0,0,0,,{\fad(120,90)}HOW WILL YOU SPEND\N{\c&H003DA3E8&\fs104}THIS WEEK?

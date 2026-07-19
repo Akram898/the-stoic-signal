@@ -1,0 +1,28 @@
+﻿# secrets
+.env.local
+.env
+.*env
+youtube/client_secret.json
+youtube/token.json
+**/client_secret*.json
+**/token.json
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# work intermediates (regenerable)
+short1/work/
+short2/work/
+short3/work/
+final/karaoke/work/
+grok_rebuild/
+
+# optional: keep finals and clips tracked if under GitHub limit
